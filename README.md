@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**rafaelrubbioli/rafaelrubbioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rafael Rubbioli and I'm a software engineer.
 
-Here are some ideas to get you started:
+### 💻 I build with:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=go&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Find me at:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-rubbioli-ferreira-0a455215b//">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
+      alt="LinkedIn"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  <a href="https://www.meetup.com/members/203873574/">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
+      alt="Meetup"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+</p>
+
