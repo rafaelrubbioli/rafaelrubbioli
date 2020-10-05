@@ -12,20 +12,18 @@ My name is Rafael Rubbioli and I'm a software engineer.
 
 ### 💬 Find me at:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-rubbioli-ferreira-0a455215b//">
-    <img
-      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
-      alt="LinkedIn"
-      style="vertical-align: top; margin: 4px;"
-    />
-  </a>
-  <a href="https://www.meetup.com/members/203873574/">
-    <img
-      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
-      alt="Meetup"
-      style="vertical-align: top; margin: 4px;"
-    />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/rafael-rubbioli-ferreira-0a455215b//">
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
+    alt="LinkedIn"
+    style="vertical-align: top; margin: 4px;"
+  />
+</a>
+<a href="https://www.meetup.com/members/203873574/">
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
+    alt="Meetup"
+    style="vertical-align: top; margin: 4px;"
+  />
+</a>
 
