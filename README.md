@@ -17,6 +17,7 @@ My name is Rafael Rubbioli and I'm a software engineer.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Influxdb-informational?style=flat&logo=influxdb&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=blue)
 
 ### 💬 Find me at:
 
