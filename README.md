@@ -13,26 +13,18 @@ My name is Rafael Rubbioli and I'm a software engineer.
 ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Rest-informational?style=flat&logo=elastic&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-gRPC-informational?style=flat&logo=grpc&logoColor=white&color=blue)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Influxdb-informational?style=flat&logo=influxdb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-ElasticSearch-informational?style=flat&logo=elastic&logoColor=white&color=blue)
 
 ### 💬 Find me at:
+https://rubbioli.com/contact/
 
-<a href="https://www.linkedin.com/in/rafael-rubbioli-ferreira-0a455215b//">
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
-    alt="LinkedIn"
-    style="vertical-align: top; margin: 4px;"
-  />
-</a>
-<a href="https://www.meetup.com/members/203873574/">
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
-    alt="Meetup"
-    style="vertical-align: top; margin: 4px;"
-  />
-</a>
 
