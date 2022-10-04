@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Rafael Rubbioli and I'm a software engineer.
+My name is Rafael Rubbioli and I'm a senior software engineer.
 
 ### Some personal info:
 - I'm from Brazil
