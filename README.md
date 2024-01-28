@@ -5,7 +5,7 @@ My name is Rafael Rubbioli and I'm a senior software engineer.
 ### Some personal info:
 - I'm from Brazil
 - Bachelor in Computer Science at [UFMG](https://www.dcc.ufmg.br/dcc/)
-- Currently working at [Americanas SA](https://www.linkedin.com/company/americanas-sa/)
+- Currently working at [Mercado Libre](https://www.linkedin.com/company/mercadolibre)
 
 ### 💻 I build with:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
